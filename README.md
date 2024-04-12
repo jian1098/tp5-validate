@@ -1,5 +1,5 @@
 ## tp5-validate说明
-Thinkphp5.0框架命令行创建验证类validate，Thinkphp5.0版本自带的命令行没有提供`make:validate`命令，而5.1及以上版本是有的，对于使用tp5.0框架或者基于tp5.0的第三框架（如：FastAdmin）非常不友好。你可以使用这个扩展来添加`make:validate`命令生成validate类。扩展的逻辑来自于5.1框架源码，所以验证器用法跟官方的一模一样，请放心使用。
+Thinkphp5.0框架命令行创建验证类validate，Thinkphp5.0版本自带的命令行没有提供`make:validate`命令，而5.1及以上版本是有的，对于使用tp5.0框架或者基于tp5.0的第三框架（如：FastAdmin）非常不友好。你可以使用这个扩展来添加`make:validate`命令生成validate类。扩展的逻辑是从5.1框架源码直接复制过来的，所以验证器用法跟官方的一模一样，请放心使用。
 
 **注意**：本扩展仅适用于Thinkphp5.0版本，更高的版本还是推荐使用自带的命令。
 
